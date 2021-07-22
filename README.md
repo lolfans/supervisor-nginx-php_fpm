@@ -1,0 +1,2 @@
+# supervisor-nginx-php_fpm
+基于supervisor管理nginx与php_fpm的基础集成镜像
